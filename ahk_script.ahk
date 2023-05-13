@@ -2,7 +2,11 @@
 
 #UseHook
 
-<^h::left    ;Win+H に ←キー を割り当て
-<^j::down    ;Win+J に ↓キー を割り当て
-<^k::up      ;Win+K に ↑キー を割り当て
-<^l::right   ;Win+L に →キー を割り当て
+<^h::left
+<^j::down
+<^k::up
+<^l::right
+
+^e::end
+^a::home
+^d::Delete
